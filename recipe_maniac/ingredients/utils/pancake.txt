@@ -1,0 +1,9 @@
+Title: Pancakes
+Description: Fluffy breakfast pancakes.
+Ingredients:
+- Flour: 200 grams
+- Eggs: 2 units
+- Milk: 300 ml
+Instructions:
+1. Mix ingredients.
+2. Cook on a hot pan.
