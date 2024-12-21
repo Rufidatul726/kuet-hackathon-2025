@@ -1,0 +1,34 @@
+Recipe Name: Chocolate Cake
+Ingredients:
+- 200g Sugar
+- 300g Flour
+- 2 Eggs
+- 100g Cocoa Powder
+- 1 tsp Baking Powder
+
+Instructions:
+1. Preheat the oven to 350°F (175°C).
+2. Mix the dry ingredients together (flour, sugar, cocoa powder, baking powder).
+3. Add eggs and mix until smooth.
+4. Pour into a greased pan and bake for 30 minutes.
+
+Tags: Sweet, Dessert, Cake
+
+---
+
+Recipe Name: Pancakes
+Ingredients:
+- 1 cup Flour
+- 1 tbsp Sugar
+- 2 Eggs
+- 1 cup Milk
+- 1 tsp Baking Powder
+
+Instructions:
+1. In a bowl, mix all the dry ingredients.
+2. Add the eggs and milk, and whisk until smooth.
+3. Heat a non-stick skillet and cook pancakes for about 2 minutes on each side.
+
+Tags: Breakfast, Sweet, Quick
+
+---
